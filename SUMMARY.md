@@ -61,3 +61,7 @@
 
 * [科技哲学](philosophy/philosophy-of-science.md)
 
+## 社会 <a id="society"></a>
+
+* [远航星社会](society/the-society-of-yuanhang.md)
+
