@@ -1,5 +1,5 @@
 ---
-description: Philosophy of the Synthetics
+description: Philosophy of Synthetics
 ---
 
 # 智械哲学

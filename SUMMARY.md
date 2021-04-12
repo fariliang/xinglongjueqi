@@ -60,7 +60,7 @@
 ## 哲学 <a id="philosophy"></a>
 
 * [科技哲学](philosophy/philosophy-of-science.md)
-* [智械哲学](philosophy/philosophy-of-the-synthetics.md)
+* [智械哲学](philosophy/philosophy-of-synthetics.md)
 * [星联邦与星龙的思想融合](philosophy/fusion-of-ideas.md)
 
 ## 社会 <a id="society"></a>
