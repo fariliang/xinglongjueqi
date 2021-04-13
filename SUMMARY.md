@@ -36,7 +36,7 @@
 
 ## 科技 <a id="technology"></a>
 
-* [2035年科技48个](technology/48-2035-technologies.md)
+* [2035年科技49个](technology/49-2035-technologies.md)
 * [2098年科技48个](technology/48-2098-technologies.md)
 * [2148年科技47个](technology/47-2148-technologies.md)
 * [2248年科技37个](technology/37-2248-technologies.md)
