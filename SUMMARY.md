@@ -14,7 +14,7 @@
   * [李维](character/xinglongians/li-wei.md)
   * [丁彻](character/xinglongians/ding-che.md)
   * [云飞](character/xinglongians/yun-fei.md)
-  * [其他星龙人](character/xinglongians/qi-ta-tian-long-ren.md)
+  * [其他星龙人](character/xinglongians/other-tianlongians.md)
 * [智械](character/synthetics/README.md)
   * [思唯](character/synthetics/si-wei.md)
   * [血痕](character/synthetics/xie-hen.md)

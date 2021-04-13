@@ -1,5 +1,5 @@
 ---
-description: Other Tianlongians
+description: Other Xinglongians
 ---
 
 # 其他星龙人

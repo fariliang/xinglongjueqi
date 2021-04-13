@@ -68,9 +68,9 @@ description: Liang Feng
 
 ## 关系
 
-父亲：[梁睿](qi-ta-tian-long-ren.md#liang-rui)
+父亲：[梁睿](other-tianlongians.md#liang-rui)
 
-母亲：[冬梅](qi-ta-tian-long-ren.md#dong-mei)
+母亲：[冬梅](other-tianlongians.md#dong-mei)
 
 造物：[思唯](../synthetics/si-wei.md)
 
