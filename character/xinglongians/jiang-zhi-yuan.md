@@ -46,9 +46,7 @@ description: Jiang Zhiyuan
 
 职业：码者
 
-头衔：灰帽黑客
-
-原型：无
+头衔：灰帽黑客
 
 ## 进阶信息
 

@@ -9,6 +9,7 @@
   * [江致远](character/xinglongians/jiang-zhi-yuan.md)
   * [李稳](character/xinglongians/li-wen.md)
   * [键客](character/xinglongians/jian-ke.md)
+  * [凯欣](character/xinglongians/kai-xin.md)
   * [陈安琪](character/xinglongians/chen-an-qi.md)
   * [衡博学](character/xinglongians/heng-bo-xue.md)
   * [宁海](character/xinglongians/ning-hai.md)
