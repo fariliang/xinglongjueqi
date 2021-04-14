@@ -6,6 +6,7 @@
 
 * [星龙人](character/xinglongians/README.md)
   * [梁风](character/xinglongians/liang-feng.md)
+  * [江致远](character/xinglongians/jiang-zhi-yuan.md)
   * [李稳](character/xinglongians/li-wen.md)
   * [键客](character/xinglongians/jian-ke.md)
   * [陈安琪](character/xinglongians/chen-an-qi.md)
