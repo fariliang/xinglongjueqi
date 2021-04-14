@@ -50,6 +50,7 @@
 * [码者联盟](organization/the-league-of-coders.md)
 * [逐风兄弟会](organization/the-brotherhood-of-zhufeng.md)
 * [四大星联邦废土组织](organization/organizations-of-wasteland.md)
+* [其他组织](organization/qi-ta-zu-zhi.md)
 * [宗教](organization/religion.md)
 * [公司](organization/corporations.md)
 
