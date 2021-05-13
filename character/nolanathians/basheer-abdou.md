@@ -46,7 +46,7 @@ description: Basheer Abdou
 
 职业：雇佣兵
 
-头衔：逐风刺客
+头衔：逐星刺客
 
 ## **进阶信息**
 
