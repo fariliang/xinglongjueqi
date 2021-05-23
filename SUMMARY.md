@@ -28,6 +28,7 @@
   * [加百列·黑火](character/star-federationers/gabriel-blackfire.md)
   * [阿兰那·卡明斯](character/star-federationers/alana-cummings.md)
   * [苏珊·布莱登](character/star-federationers/su-shan-bu-lai-deng.md)
+  * [其他星联邦人](character/star-federationers/qi-ta-xing-lian-bang-ren.md)
 * [诺兰亚斯人](character/nolanathians/README.md)
   * [巴希尔·阿布多](character/nolanathians/basheer-abdou.md)
 * [改造人](character/genetically-modified-humans/README.md)
