@@ -4,9 +4,10 @@ description: Gabriel Blackfire
 
 # 加百列·黑火
 
-![&#x52A0;&#x767E;&#x5217;&#xB7;&#x9ED1;&#x706B;](../../.gitbook/assets/jia-bai-lie-hei-huo-.jpg)
+![加百列·黑火](../../.gitbook/assets/jia-bai-lie-hei-huo-.jpg)
 
-## 基本信息
+基本信息
+
 
 种族：星联邦人
 
@@ -28,7 +29,8 @@ description: Gabriel Blackfire
 
 生日：1990/02/20
 
-## 性格特征
+性格特征
+
 
 性格特征：ESFJ，和蔼可亲。
 
@@ -38,7 +40,8 @@ description: Gabriel Blackfire
 
 习惯性动作：无。
 
-## 角色定位
+角色定位
+
 
 角色身份：小反
 
@@ -48,7 +51,8 @@ description: Gabriel Blackfire
 
 头衔：高阶长老
 
-## 进阶信息
+进阶信息
+
 
 重要的东西：权力
 
@@ -66,7 +70,7 @@ description: Gabriel Blackfire
 
 因为某种情感而经常做的事情：宗教控制。
 
-## 简介
+简介
+
 
 废土之上，新联邦以宗教的力量崛起。加百列代表的是星联邦的精神价值观。他反对人工智能的滥用，崇尚纯正人类主义。以宗教的方式记录和传播废土上的旧科技。他非常虔诚，非常传统，极其认真地承担起帮助别人和做正确的事的责任。
-

@@ -4,9 +4,10 @@ description: Susan Brayden
 
 # 苏珊·布莱登
 
-![&#x82CF;&#x73CA;&#xB7;&#x5E03;&#x83B1;&#x767B;](../../.gitbook/assets/su-shan-bu-lai-deng-.jpg)
+![苏珊·布莱登](../../.gitbook/assets/su-shan-bu-lai-deng-.jpg)
 
-## 基本信息
+基本信息
+
 
 种族：星联邦人
 
@@ -28,7 +29,8 @@ description: Susan Brayden
 
 生日：1979/02/23
 
-## 性格特征
+性格特征
+
 
 性格特征：ENFJ，家庭价值。
 
@@ -38,7 +40,8 @@ description: Susan Brayden
 
 习惯性动作：无。
 
-## 角色定位
+角色定位
+
 
 角色身份：小反
 
@@ -50,7 +53,8 @@ description: Susan Brayden
 
 原型：无
 
-## 进阶信息
+进阶信息
+
 
 重要的东西：国家
 
@@ -68,7 +72,7 @@ description: Susan Brayden
 
 因为某种情感而经常做的事情：无谓的战争。
 
-## 简介
+简介
+
 
 布莱登的大统领之路——当年她曾是副大统领，靠她拿下了女性、黑人和少数族裔的票数——因为她本人三者全占。前任总统死于传染病，总统之位才留给了她。她有时甚至怀疑前任总统死于逐星兄弟会的暗杀。
-

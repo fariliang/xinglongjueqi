@@ -4,13 +4,14 @@ description: Other Star Federationers
 
 # 其他星联邦人
 
-## 弗朗西斯·彻瑞
+弗朗西斯·彻瑞
+
 
 Francis Cherry
 
 
 
-![&#x5F17;&#x6717;&#x897F;&#x65AF;&#xB7;&#x5F7B;&#x745E;](../../.gitbook/assets/fu-lang-xi-si-che-rui-.jpg)
+![弗朗西斯·彻瑞](../../.gitbook/assets/fu-lang-xi-si-che-rui-.jpg)
 
 种族：星联邦人
 
@@ -37,4 +38,3 @@ Francis Cherry
 语癖：星龙人如何不经打。
 
 彻瑞和苏珊·布莱登一样，是逐星兄弟会扶持的总统。他是一位真正的战争狂人，一上台就宣布了对星龙的地面部队战争。在他的世界观里，星龙与星联邦必有一战。星联邦不会不战就放弃坤灵星的领导权。他认为军事行动是星联邦的最后机会。
-

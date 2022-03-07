@@ -4,9 +4,10 @@ description: Alana Cummings
 
 # 阿兰那·卡明斯
 
-![&#x963F;&#x5170;&#x90A3;&#xB7;&#x5361;&#x660E;&#x65AF;](../../.gitbook/assets/a-lan-na-ka-ming-si-.jpg)
+![阿兰那·卡明斯](../../.gitbook/assets/a-lan-na-ka-ming-si-.jpg)
 
-## 基本信息
+基本信息
+
 
 种族：星联邦人
 
@@ -28,7 +29,8 @@ description: Alana Cummings
 
 生日：1999/01/08
 
-## 性格特征
+性格特征
+
 
 性格特征：INTP，智慧灵动。
 
@@ -38,7 +40,8 @@ description: Alana Cummings
 
 习惯性动作：无。
 
-## 角色定位
+角色定位
+
 
 角色身份：小反
 
@@ -48,7 +51,8 @@ description: Alana Cummings
 
 头衔：科学理事会总干事
 
-## 进阶信息
+进阶信息
+
 
 重要的东西：智慧
 
@@ -66,7 +70,7 @@ description: Alana Cummings
 
 因为某种情感而经常做的事情：残酷的实验。
 
-## 简介
+简介
+
 
 阿兰那虽然一副学术派的模样，却以铁腕手段统治科学理事会。但她对废土上的一切都有她的思考，而理性是最高原则。没有什么能比得过她缜密的逻辑，雷厉风行的态度，她是废土上所有科学家的女神。
-

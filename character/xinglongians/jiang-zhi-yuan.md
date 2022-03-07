@@ -4,9 +4,10 @@ description: Jiang Zhiyuan
 
 # 江致远
 
-![&#x6C5F;&#x81F4;&#x8FDC;](../../.gitbook/assets/jiang-zhi-yuan-.jpg)
+![江致远](../../.gitbook/assets/jiang-zhi-yuan-.jpg)
 
-## 基本信息
+基本信息
+
 
 种族：星龙人
 
@@ -28,7 +29,8 @@ description: Jiang Zhiyuan
 
 生日：2012/11/15
 
-## 性格特征
+性格特征
+
 
 性格特征：INTP，冷静旁观。
 
@@ -38,7 +40,8 @@ description: Jiang Zhiyuan
 
 习惯性动作：隐秘在常人之间。
 
-## 角色定位
+角色定位
+
 
 角色身份：男配
 
@@ -48,7 +51,8 @@ description: Jiang Zhiyuan
 
 头衔：灰帽黑客
 
-## 进阶信息
+进阶信息
+
 
 重要的东西：学识
 
@@ -66,7 +70,7 @@ description: Jiang Zhiyuan
 
 因为某种情感而经常做的事情：黑进不该黑的系统。
 
-## 简介
+简介
+
 
 江致远游走在黑白之际，是一个灰帽黑客，简称灰客，代号旁观者（Bystander）。他曾是一个独行侠，专研个人技术，达到个人目的，直到他遇到了梁风。梁风坚定狂热的个性吸引了他，两人遂成为好友。平时不爱说话的江致远也打开了话匣子。
-
