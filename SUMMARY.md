@@ -2,7 +2,7 @@
 
 * [世界设定集](README.md)
 
-## 人物 <a id="character"></a>
+## 人物 <a href="#character" id="character"></a>
 
 * [星龙人](character/xinglongians/README.md)
   * [梁风](character/xinglongians/liang-feng.md)
@@ -37,8 +37,9 @@
   * [破浪](character/yuanhangians/po-lang.md)
   * [飞楫](character/yuanhangians/fei-ji.md)
   * [乘涛](character/yuanhangians/cheng-tao.md)
+  * [桅帆](character/yuanhangians/wei-fan.md)
 
-## 科技 <a id="technology"></a>
+## 科技 <a href="#technology" id="technology"></a>
 
 * [2035年科技49个](technology/49-2035-technologies.md)
 * [2098年科技48个](technology/48-2098-technologies.md)
@@ -47,7 +48,7 @@
 * [改造液25种](technology/modification-injection.md)
 * [远航星科技21个](technology/21-yuanhang-technologies.md)
 
-## 组织 <a id="organization"></a>
+## 组织 <a href="#organization" id="organization"></a>
 
 * [码者联盟](organization/the-league-of-coders.md)
 * [逐星兄弟会](organization/the-brotherhood-of-zhufeng.md)
@@ -56,19 +57,18 @@
 * [宗教](organization/religion.md)
 * [公司](organization/corporations.md)
 
-## 地理 <a id="geology"></a>
+## 地理 <a href="#geology" id="geology"></a>
 
 * [天阳系](geology/the-tianyang-system.md)
 * [坤灵星二十国](geology/20-countries-of-kunling.md)
 * [坤灵星地图](geology/maps-of-kunling.md)
 
-## 哲学 <a id="philosophy"></a>
+## 哲学 <a href="#philosophy" id="philosophy"></a>
 
 * [科技哲学](philosophy/philosophy-of-science.md)
 * [智械哲学](philosophy/philosophy-of-synthetics.md)
 * [星联邦与星龙的思想融合](philosophy/fusion-of-ideas.md)
 
-## 社会 <a id="society"></a>
+## 社会 <a href="#society" id="society"></a>
 
 * [远航星社会](society/the-society-of-yuanhang.md)
-
