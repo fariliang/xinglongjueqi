@@ -23,6 +23,7 @@
   * [阿尔法](character/synthetics/alpha.md)
   * [零](character/synthetics/zero.md)
   * [天使](character/synthetics/angel.md)
+  * [其他智械](character/synthetics/qi-ta-zhi-xie.md)
 * [星联邦人](character/star-federationers/README.md)
   * [亚登·伊东](character/star-federationers/aydan-eaton.md)
   * [加百列·黑火](character/star-federationers/gabriel-blackfire.md)
