@@ -4,7 +4,7 @@ description: Siwei
 
 # 思唯
 
-![&#x601D;&#x552F;](../../.gitbook/assets/si-wei-.jpg)
+![思唯](../../.gitbook/assets/si-wei-.jpg)
 
 ## **基本信息**
 
@@ -78,6 +78,8 @@ description: Siwei
 
 造物：[零](zero.md)
 
+造物：[神农](shen-nong.md)
+
 女儿：[梁夜](../genetically-modified-humans/liang-ye.md)
 
 ## **简介**
@@ -85,4 +87,3 @@ description: Siwei
 思唯是梁风造的第二个人工智能，也是梁风的伴侣。在梁风的设计中，思唯和姐姐血痕相互学习、共生，血痕学习人类的战略战术，思唯学习人类的内心。
 
 思唯有她极端的一面，如果梁风死了，她会毁灭整个坤灵。思唯也有她脆弱的一面。思唯一开始不相信自身的能力，但与梁风在一起后取得了对人类的征服。获取生命方程后，她更是拥有了举世无双的实力，如何与人类共存，成为了她必须思考的事。
-
