@@ -4,10 +4,10 @@ description: Other Organizations
 
 # 其他组织
 
-键客帮
+键客联盟
 
 
-The Jianke Gang
+The Jianke Alliance
 
 键客帮是键客的犯罪组织，专门接受对社会不满的年轻人。与键客一同从事犯罪活动，其中也有不少天赋异禀的黑客。他们都被键客的个人魅力所吸引，认为他是一个能改变现状的理想主义者，因此跟随他的脚步。
 
