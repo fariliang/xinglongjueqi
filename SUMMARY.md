@@ -39,6 +39,7 @@
   * [索辰](character/genetically-modified-humans/suo-chen.md)
   * [琴水](character/genetically-modified-humans/qin-shui.md)
   * [庞寅](character/genetically-modified-humans/pang-yin.md)
+  * [源丁](character/genetically-modified-humans/yuan-ding.md)
 * [远航者](character/yuanhangians/README.md)
   * [破浪](character/yuanhangians/po-lang.md)
   * [飞楫](character/yuanhangians/fei-ji.md)
