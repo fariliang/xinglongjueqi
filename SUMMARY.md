@@ -76,6 +76,7 @@
 * [智械哲学](philosophy/philosophy-of-synthetics.md)
 * [星联邦与星龙的思想融合](philosophy/fusion-of-ideas.md)
 * [改造人主义](philosophy/gai-zao-ren-zhu-yi.md)
+* [论正义](philosophy/lun-zheng-yi.md)
 
 ## 社会 <a href="#society" id="society"></a>
 
