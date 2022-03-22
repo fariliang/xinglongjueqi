@@ -24,6 +24,7 @@
   * [零](character/synthetics/zero.md)
   * [天使](character/synthetics/angel.md)
   * [神农](character/synthetics/shen-nong.md)
+  * [林特](character/synthetics/lin-te.md)
   * [其他智械](character/synthetics/qi-ta-zhi-xie.md)
 * [星联邦人](character/star-federationers/README.md)
   * [亚登·伊东](character/star-federationers/aydan-eaton.md)
