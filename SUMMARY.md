@@ -56,6 +56,7 @@
 * [2248年科技37个](technology/37-2248-technologies.md)
 * [改造液25种](technology/modification-injection.md)
 * [远航星科技21个](technology/21-yuanhang-technologies.md)
+* [信息宇宙科技25个](technology/xin-xi-yu-zhou-ke-ji-25-ge.md)
 
 ## 组织 <a href="#organization" id="organization"></a>
 
