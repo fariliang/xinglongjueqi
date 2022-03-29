@@ -47,6 +47,8 @@
   * [飞楫](character/yuanhangians/fei-ji.md)
   * [乘涛](character/yuanhangians/cheng-tao.md)
   * [桅帆](character/yuanhangians/wei-fan.md)
+* [核心者](character/he-xin-zhe/README.md)
+  * [硅元](character/he-xin-zhe/gui-yuan.md)
 
 ## 科技 <a href="#technology" id="technology"></a>
 
