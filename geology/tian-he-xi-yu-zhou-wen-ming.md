@@ -1,8 +1,8 @@
 ---
-description: Nine Civilizations of Tianhe
+description: Ten Civilizations of Tianhe
 ---
 
-# 天河系十文明
+# 天河系宇宙文明
 
 ## 数源文明&#x20;
 
