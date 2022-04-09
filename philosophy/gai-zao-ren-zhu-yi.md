@@ -1,5 +1,8 @@
 ---
 description: Replicantism
+cover: >-
+  https://images.unsplash.com/photo-1573883431205-98b5f10aaedb?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxtZWRpY2luZXxlbnwwfHx8fDE2NDk0OTUyMDA&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 改造人主义

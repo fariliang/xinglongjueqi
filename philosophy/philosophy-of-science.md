@@ -1,5 +1,8 @@
 ---
 description: Philosophy of Science
+cover: >-
+  https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx0ZWNobm9sb2d5fGVufDB8fHx8MTY0OTQ5NTI3Ng&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 科技哲学
@@ -37,4 +40,3 @@ description: Philosophy of Science
 大量博学者：未来的科学，通过互联网教育，可以让所有人都享受到最顶级的教育资源，使培养跨学科博学者更为容易。通过AI对一个人的教育史的分析，可以实现对其知识结构的分析，匹配相辅相成的协作者。大量的开源项目，让小科学重获新生。
 
 理论与工程的结合：产业科学进一步发展，让科学、技术和工程更为紧密地结合。尤其不能忽视大型工程对科学理论的双向转化。大量人工智能和互联网平台的产生，让产业科学从全网汲取人才，构建大型协作项目。会得以构建前所未有的巨型项目和巨型企业。
-

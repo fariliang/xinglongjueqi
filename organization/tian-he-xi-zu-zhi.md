@@ -1,5 +1,8 @@
 ---
 description: Tianhe Organizations
+cover: >-
+  https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8bWlsa3klMjB3YXl8ZW58MHx8fHwxNjQ5NDk1NDgx&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 天河系组织

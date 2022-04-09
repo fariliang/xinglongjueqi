@@ -1,5 +1,8 @@
 ---
 description: Fusion of Ideas
+cover: >-
+  https://images.unsplash.com/photo-1621165755630-367fc1c27da4?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxtZXJnZXxlbnwwfHx8fDE2NDk0OTUyMjM&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 星联邦与星龙的思想融合
@@ -17,4 +20,3 @@ description: Fusion of Ideas
 星龙的哲学从早期经典开始，到了中古时期开始腐化，充满了对巫术文化的臆想和对古代身份地位哲学的遵从。直到近代科学传入，才打破桎梏，重新发展。某种程度上来说，现代星龙文明并非纯粹的星龙文明，而是与诺兰亚斯文明的混合体。是融合了星龙文明和诺兰亚斯文明精粹的新型人类文明。
 
 星联邦想要打破二元逻辑理性，需要引入星龙式教育，教授中庸思想，削弱宗教的影响。星龙想要变得强大，引入了起源于诺兰亚斯的科学思维。文明就是在不断碰撞中前进。哲学思想的发展是对话与批判共生的，前代种下了怎样的思想种子，后代就会如何讨论开花结果。
-

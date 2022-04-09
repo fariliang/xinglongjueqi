@@ -1,5 +1,8 @@
 ---
 description: Other Organizations
+cover: >-
+  https://images.unsplash.com/photo-1584573062914-a1f7848470a2?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxvcmdhbml6YXRpb258ZW58MHx8fHwxNjQ5NDk1NDU5&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 其他组织

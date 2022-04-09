@@ -1,5 +1,8 @@
 ---
 description: The Brotherhood of Zhuxing
+cover: >-
+  https://images.unsplash.com/photo-1500937386664-56d1dfef3854?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxicm90aGVyaG9vZHxlbnwwfHx8fDE2NDk0OTU1MjQ&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 逐星兄弟会
@@ -19,4 +22,3 @@ description: The Brotherhood of Zhuxing
 ### 逐星刺客
 
 逐星刺客是兄弟会里的武士。执行重要的刺杀活动。他们拥有兄弟会的荣耀，相信手中的利刃是信念的象征。他们相信他们的刺杀能为这个世界带去更多自由，变化，而非一成不变的秩序。他们就是这个世界的变革者，守护者。
-

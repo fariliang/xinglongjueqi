@@ -1,5 +1,8 @@
 ---
 description: The Society of Yuanhang
+cover: >-
+  https://images.unsplash.com/photo-1548032885-b5e38734688a?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMXx8c2VhfGVufDB8fHx8MTY0OTQ5NTI5Ng&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 远航星社会
@@ -51,4 +54,3 @@ description: The Society of Yuanhang
 远航者们的文化一切都与黑洞有关。尤其著名的是黑洞音乐，这是一种电子乐，模仿黑洞发出的声音，据称是远航者们入睡之前最喜欢听的音乐。黑洞艺术更是让远航星上的建筑充满圆形的风格，他们的浮石技术能让这些形态奇异的建筑受力正常。
 
 远航者们追求个性的自由表达，但战争议会不允许，他们开启了全方位的文化净化，但这种净化又是隐性的，并不对外公布。战争议会控制了所有传媒、影视、音乐公司，远航星学院，从文化上灌输冒险家、寻路者、劫掠者最为光荣的思想。因为他们相信，在他们面前的是星际大航海时代。而他们需要最好的航海家。
-

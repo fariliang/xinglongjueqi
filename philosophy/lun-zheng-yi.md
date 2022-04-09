@@ -1,5 +1,8 @@
 ---
 description: On Justice
+cover: >-
+  https://images.unsplash.com/photo-1589994965851-a8f479c573a9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxqdXN0aWNlfGVufDB8fHx8MTY0OTQ5NTE3OQ&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 论正义

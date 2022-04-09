@@ -1,5 +1,8 @@
 ---
 description: The Tianyang System
+cover: >-
+  https://images.unsplash.com/photo-1575881875475-31023242e3f9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxzdW58ZW58MHx8fHwxNjQ5NDk1MzUx&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 天阳系

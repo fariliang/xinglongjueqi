@@ -1,10 +1,13 @@
 ---
 description: Religion
+cover: >-
+  https://images.unsplash.com/photo-1599964815811-30b9aea11d17?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxyZWxpZ2lvbnxlbnwwfHx8fDE2NDk0OTU0MjM&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 宗教
 
-## 沙神教 
+## 沙神教&#x20;
 
 The Sha Church
 
@@ -39,4 +42,3 @@ Henion Mythology
 The Tianshen Church
 
 天神教是远航星人的宗教。他们称主神为宇宙意识（Universal Consciousness），宇宙意识连通所有生命，是所有生命的尊严所在。天神教禁止研究强人工智能和生物改造技术，限制了远航星人的发展。远航者们相信在超空间中能接近宇宙意识。
-

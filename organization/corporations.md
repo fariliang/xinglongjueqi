@@ -1,5 +1,8 @@
 ---
 description: Corporations
+cover: >-
+  https://images.unsplash.com/photo-1531973576160-7125cd663d86?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb21wYW55fGVufDB8fHx8MTY0OTQ5NTQwMQ&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 公司

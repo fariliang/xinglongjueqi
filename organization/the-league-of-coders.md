@@ -1,16 +1,19 @@
 ---
 description: The League of Coders
+cover: >-
+  https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxjb2RlfGVufDB8fHx8MTY0OTQ5NTU0OQ&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 码者联盟
 
-![&#x7801;&#x8005;&#x8054;&#x76DF;](../.gitbook/assets/ma-zhe-lian-meng-.jpg)
+![码者联盟](../.gitbook/assets/ma-zhe-lian-meng-.jpg)
 
 码者联盟（The League of Coders）公布了码者等级和分支，供众码者参考。代码改变世界，是码者联盟的口号。二十一世纪初，随着科技的发展，码者成为了社会中最庞大的职业，几乎各行各业都需要编程开发，尤其是工程和科研，社会运行重度依赖各种程序。
 
 ## 码者联盟学派
 
-![&#x7801;&#x8005;&#x8054;&#x76DF;&#x5B66;&#x6D3E;](../.gitbook/assets/ma-zhe-lian-meng-xue-pai-.png)
+![码者联盟学派](../.gitbook/assets/ma-zhe-lian-meng-xue-pai-.png)
 
 码者联盟现分为七大学派，其中战斗码者已失传。进入码者联盟后码者必须选择加入六大学派中的一派，每个学派都有各自的传统，象征着码者的荣耀。
 
@@ -72,13 +75,12 @@ Basic Modules for Coders
 
 这是一个码者需要学习的基础理论与实践模组。学完这个模组的码者自动成为码工级码者，获得码者联盟基础模组证书。这是一个四年学习模组，与码者的大学课程相当。有的自由码者在加入码者联盟之前，必须先获得码者联盟基础模组证书。
 
-![&#x7801;&#x8005;&#x8054;&#x76DF;&#x57FA;&#x7840;&#x6A21;&#x7EC4;](../.gitbook/assets/ma-zhe-lian-meng-ji-chu-mo-zu-.png)
+![码者联盟基础模组](../.gitbook/assets/ma-zhe-lian-meng-ji-chu-mo-zu-.png)
 
-### 码者联盟进阶模组
+### 码者联盟进阶模组&#xD;
 
 Advanced Modules for Coders
 
 这是一个码者想要进阶的必修理论与实践模组。学完这个模组的码者自动成为码匠级码者，获得码者联盟进阶模组证书。这是一个两年学习模组，与码者的研究生课程相当。许多大的编码公司要求码者获得码者联盟进阶模组证书。
 
-![&#x7801;&#x8005;&#x8054;&#x76DF;&#x8FDB;&#x9636;&#x6A21;&#x7EC4;](../.gitbook/assets/ma-zhe-lian-meng-jin-jie-mo-zu-.png)
-
+![码者联盟进阶模组](../.gitbook/assets/ma-zhe-lian-meng-jin-jie-mo-zu-.png)

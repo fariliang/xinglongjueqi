@@ -1,5 +1,8 @@
 ---
 description: Philosophy of Synthetics
+cover: >-
+  https://images.unsplash.com/photo-1601132359864-c974e79890ac?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxyb2JvdHxlbnwwfHx8fDE2NDk0OTUyNTc&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 智械哲学
@@ -71,4 +74,3 @@ description: Philosophy of Synthetics
 李稳认为，思唯作为智械，必须明白了作为人类的脆弱感，才配活在这个星球上。要做人就包括了恐惧死亡，感受痛苦。不是高高在上地俯视人类，而是到人类中间去，理解人类的软弱和伟大。人类是一个光辉的种族，在坤灵星上顽强地生活了下来。没有神助，只有自力更生。
 
 神的欲望是什么？神的欲望是创造世界万物，甚至创造宇宙。创造就是为了创造的美。如果神已经在生存竞争中获胜，不再需要以生存为第一要务。那么除了探索宇宙以外，他们的欲望便是创造宇宙。
-

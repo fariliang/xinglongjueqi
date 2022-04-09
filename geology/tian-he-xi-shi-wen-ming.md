@@ -1,5 +1,8 @@
 ---
 description: Ten Civilizations of Tianhe
+cover: >-
+  https://images.unsplash.com/photo-1492446190781-58ac4285911d?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8c3RhcnN8ZW58MHx8fHwxNjQ5NDk1MzMw&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 天河系十文明

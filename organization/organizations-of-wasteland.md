@@ -1,10 +1,13 @@
 ---
 description: Organizations of Wasteland
+cover: >-
+  https://images.unsplash.com/photo-1439848256058-e7e4d9b60f13?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHx3YXN0ZWxhbmR8ZW58MHx8fHwxNjQ5NDk1NTAz&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 四大星联邦废土组织
 
-## 新联邦 
+## 新联邦&#x20;
 
 New Federation
 
@@ -63,4 +66,3 @@ Shared Future
 同时，联合体挑选幸存下来的工业技术人才会留在星龙进修，进修期间他们会习惯性地将星龙工业立为榜样，随后这些人回去重建时就会习惯性地向星龙工业体系靠近。
 
 联合体遭到星联邦民族主义组织和个人的一致反对。他们宁愿放弃先进的科技，缓慢地收集战前科技，也不接受联合体的帮助。然而联合体在科技发展上一骑绝尘。并且已经在选拔宇宙殖民的人选。
-
