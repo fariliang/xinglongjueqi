@@ -1,6 +1,6 @@
 ---
 description: 这不只是一本小说，而是一个世界。
-cover: .gitbook/assets/核心者.jpg
+cover: .gitbook/assets/宇宙.png
 coverY: 0
 ---
 
