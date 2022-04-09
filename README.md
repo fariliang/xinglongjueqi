@@ -1,5 +1,7 @@
 ---
 description: 这不只是一本小说，而是一个世界。
+cover: .gitbook/assets/核心者.jpg
+coverY: 0
 ---
 
 # 世界设定集
