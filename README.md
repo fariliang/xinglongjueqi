@@ -6,6 +6,8 @@ coverY: 0
 
 # 世界设定集
 
+![](.gitbook/assets/计算宇宙.jpg)
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
