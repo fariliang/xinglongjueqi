@@ -6,8 +6,6 @@ coverY: 0
 
 # 世界设定集
 
-![](.gitbook/assets/jisuanyuzhou.jpg)
-
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
