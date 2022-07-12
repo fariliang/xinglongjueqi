@@ -4,7 +4,7 @@ description: 48 2098 Technologies
 
 # 2098年科技48个
 
-![2098&#x5E74;&#x79D1;&#x6280;48&#x4E2A;](../.gitbook/assets/2098-nian-ke-ji-48-ge-.png)
+![2098年科技48个](../.gitbook/assets/2098-nian-ke-ji-48-ge-.png)
 
 ## 物理
 
@@ -180,7 +180,7 @@ description: 48 2098 Technologies
 
 #### **人工智能**
 
-**强人工智能（Strong Artificial Intelligence）**
+**通用人工智能（Artificial General Intelligence）**
 
 这样的机器将被认为是有知觉的，有自我意识的。可以独立思考问题并制定解决问题的最优方案，有自己的价值观和世界观体系。有和生物一样的各种本能，比如生存和安全需求。在某种意义上可以看作一种新的文明。
 
@@ -245,4 +245,3 @@ description: 48 2098 Technologies
 **便携式红激光枪（Portable Red Laser Gun）**
 
 虽然是便携式，但也要健壮的人或者改造人才能拿得动。启动时它能发动高能红激光束，瞬间烧穿一个人的躯体。进阶战斗装甲对其完全无效。但它笨重，有3秒的充能时间，这让敌人能提前躲避。
-
