@@ -4,7 +4,7 @@ description: 21 Yuanhang Technologies
 
 # 远航星科技21个
 
-![&#x8FDC;&#x822A;&#x661F;&#x79D1;&#x6280;21&#x4E2A;](../.gitbook/assets/yuan-hang-xing-ke-ji-21-ge-.png)
+![远航星科技21个](../.gitbook/assets/yuan-hang-xing-ke-ji-21-ge-.png)
 
 ## 物理
 
@@ -46,7 +46,7 @@ description: 21 Yuanhang Technologies
 
 ### 神经科学
 
-**维度大脑（High Dimension Brian）**
+**维度大脑（High Dimension Brain）**
 
 因为对超空间的掌握，远航者可以使用这种技术，激活大脑的高维计算能力。将多个远航者的大脑连通，一起进行堪比人工智能的运算。他们用这种方式代替感知型人工智能的使用，每次战场指挥都会用到维度大脑。
 
@@ -123,4 +123,3 @@ description: 21 Yuanhang Technologies
 **紫外激光突击步枪（UV Assault Rifle）**
 
 每个远航者都配备了一把紫外激光突击步枪。这种枪也涂了浮石，使之非常轻便，女性也可以轻易使用。所以远航者中每个人都是战士，因为每个人都能抗得起枪。这种武器对于坤灵人来说非常致命。
-
