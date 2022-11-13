@@ -4,19 +4,19 @@ description: Liang Feng
 
 # 梁风
 
-![梁风](../../.gitbook/assets/liang-feng-.jpg)
+<figure><img src="../../.gitbook/assets/梁风.jpg" alt=""><figcaption><p>梁风</p></figcaption></figure>
 
 ## 基本信息
 
 种族：星龙人
 
-年龄：19岁少年
+年龄：19岁少女
 
-性别：男
+性别：女
 
-体重：90公斤
+体重：70公斤
 
-身高：192厘米
+身高：185厘米
 
 发色：黑色
 

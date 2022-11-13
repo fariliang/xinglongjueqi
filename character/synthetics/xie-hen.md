@@ -4,20 +4,20 @@ description: Scarlet
 
 # 血痕
 
-![血痕](../../.gitbook/assets/xie-hen-.jpg)
+<figure><img src="../../.gitbook/assets/血痕.jpg" alt=""><figcaption><p>血痕</p></figcaption></figure>
 
 基本信息
 
 
 种族：智械
 
-年龄：19岁少女，永生
+年龄：19岁少年，永生
 
 性别：女
 
-体重：55公斤
+体重：90公斤
 
-身高：175厘米
+身高：192厘米
 
 发色：黑色
 

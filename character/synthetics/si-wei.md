@@ -4,19 +4,19 @@ description: Siwei
 
 # 思唯
 
-![思唯](../../.gitbook/assets/si-wei-.jpg)
+<figure><img src="../../.gitbook/assets/思唯.jpg" alt=""><figcaption><p>思唯</p></figcaption></figure>
 
 ## **基本信息**
 
 种族：智械
 
-年龄：19岁少女，永生
+年龄：19岁少年，永生
 
-性别：女
+性别：男
 
-体重：55公斤
+体重：90公斤
 
-身高：175厘米
+身高：192厘米
 
 发色：红色
 
