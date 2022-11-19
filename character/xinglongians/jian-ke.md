@@ -4,7 +4,7 @@ description: Jian Ke
 
 # 键客
 
-![键客](../../.gitbook/assets/jian-ke-.jpg)
+![键客](../../.gitbook/assets/键客.jpg)
 
 ## **基本信息**
 

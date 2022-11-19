@@ -4,7 +4,7 @@ description: Susan Brayden
 
 # 苏珊·布莱登
 
-![苏珊·布莱登](../../.gitbook/assets/su-shan-bu-lai-deng-.jpg)
+![苏珊·布莱登](../../.gitbook/assets/苏珊·布莱登.jpg)
 
 基本信息
 

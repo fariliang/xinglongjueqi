@@ -4,7 +4,7 @@ description: Zero
 
 # 零
 
-![零](../../.gitbook/assets/ling-.jpg)
+![零](../../.gitbook/assets/零.jpg)
 
 基本信息
 

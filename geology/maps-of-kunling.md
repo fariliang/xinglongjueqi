@@ -6,11 +6,11 @@ description: Maps of Kunling
 
 ## 中文地图
 
-![&#x5764;&#x7075;&#x661F;](../.gitbook/assets/kun-ling-xing-.jpg)
+![坤灵星](../.gitbook/assets/坤灵星.jpg)
 
 ## 英文地图
 
-![Kunling](../.gitbook/assets/kunling.jpg)
+![Kunling](../.gitbook/assets/Kunling.jpg)
 
 ## 坤灵星地图译名对照
 
@@ -247,6 +247,4 @@ Yuheng 玉衡（城市）
 Yunxing Mountains 陨星山（山脉）
 
 Zuoqi 座旗（城市）
-
-
 

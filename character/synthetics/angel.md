@@ -8,7 +8,7 @@ RTX-800
 
 
 
-![天使](../../.gitbook/assets/tian-shi-.jpg)
+![天使](../../.gitbook/assets/天使.jpg)
 
 基本信息
 

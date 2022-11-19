@@ -11,7 +11,7 @@ Francis Cherry
 
 
 
-![弗朗西斯·彻瑞](../../.gitbook/assets/fu-lang-xi-si-che-rui-.jpg)
+![弗朗西斯·彻瑞](../../.gitbook/assets/弗朗西斯·彻瑞.jpg)
 
 种族：星联邦人
 

@@ -4,7 +4,7 @@ description: Jiang Zhiyuan
 
 # 江致远
 
-![江致远](../../.gitbook/assets/jiang-zhi-yuan-.jpg)
+![江致远](../../.gitbook/assets/江致远.jpg)
 
 基本信息
 

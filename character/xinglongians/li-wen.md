@@ -4,7 +4,7 @@ description: Li Wen
 
 # 李稳
 
-![李稳](../../.gitbook/assets/li-wen-.jpg)
+![李稳](../../.gitbook/assets/李稳.jpg)
 
 ## **基本信息**
 

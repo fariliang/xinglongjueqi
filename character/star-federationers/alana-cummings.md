@@ -4,7 +4,7 @@ description: Alana Cummings
 
 # 阿兰那·卡明斯
 
-![阿兰那·卡明斯](../../.gitbook/assets/a-lan-na-ka-ming-si-.jpg)
+![阿兰那·卡明斯](../../.gitbook/assets/阿兰那·卡明斯.jpg)
 
 基本信息
 

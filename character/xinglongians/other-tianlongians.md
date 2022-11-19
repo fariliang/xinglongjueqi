@@ -8,7 +8,7 @@ description: Other Xinglongians
 
 Liang Rui
 
-![梁睿](../../.gitbook/assets/liang-rui-.jpg)
+![梁睿](../../.gitbook/assets/梁睿.jpg)
 
 种族：星龙人
 
@@ -40,7 +40,7 @@ Liang Rui
 
 Dong mei
 
-![冬梅](../../.gitbook/assets/dong-mei-.jpg)
+![冬梅](../../.gitbook/assets/冬梅.jpg)
 
 种族：星龙人
 
@@ -72,7 +72,7 @@ Dong mei
 
 Ou Yangyi
 
-![欧阳逸](../../.gitbook/assets/ou-yang-yi-.jpg)
+![欧阳逸](../../.gitbook/assets/欧阳逸.jpg)
 
 种族：星龙人
 
@@ -105,7 +105,7 @@ Ou Yangyi
 
 Cheng Deyi
 
-![程德义](../../.gitbook/assets/cheng-de-yi-.jpg)
+![程德义](../../.gitbook/assets/程德义.jpg)
 
 种族：星龙人
 
@@ -140,7 +140,7 @@ Yun Xiyue
 
 
 
-![云希月](../../.gitbook/assets/yun-xi-yue-.jpg)
+![云希月](../../.gitbook/assets/云希月.jpg)
 
 种族：星龙人
 
@@ -175,7 +175,7 @@ Fu Xinghai
 
 
 
-![傅星海](../../.gitbook/assets/fu-xing-hai-.jpg)
+![傅星海](../../.gitbook/assets/傅星海.jpg)
 
 种族：星龙人
 
@@ -210,7 +210,7 @@ Kai Chao
 
 
 
-![凯超](../../.gitbook/assets/kai-chao-.jpg)
+![凯超](../../.gitbook/assets/凯超.jpg)
 
 种族：星龙人
 
@@ -243,7 +243,7 @@ Kai Chao
 
 Wan Feng
 
-![晚风](../../.gitbook/assets/wan-feng-.jpg)
+![晚风](../../.gitbook/assets/晚风.jpg)
 
 
 
@@ -280,7 +280,7 @@ Xu Lan
 
 
 
-![许澜](../../.gitbook/assets/xu-lan-.jpg)
+![许澜](../../.gitbook/assets/许澜.jpg)
 
 
 
@@ -315,7 +315,7 @@ Xu Lan
 
 Wan Yingzhe
 
-![万英哲](../../.gitbook/assets/wan-ying-zhe-.jpg)
+![万英哲](../../.gitbook/assets/万英哲.jpg)
 
 种族：星龙人
 

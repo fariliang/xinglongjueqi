@@ -4,7 +4,7 @@ description: Gabriel Blackfire
 
 # 加百列·黑火
 
-![加百列·黑火](../../.gitbook/assets/jia-bai-lie-hei-huo-.jpg)
+![加百列·黑火](../../.gitbook/assets/加百列·黑火.jpg)
 
 基本信息
 

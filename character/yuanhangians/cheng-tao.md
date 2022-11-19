@@ -4,7 +4,7 @@ description: Chengtao
 
 # 乘涛
 
-![乘涛](../../.gitbook/assets/cheng-tao-.jpg)
+![乘涛](../../.gitbook/assets/乘涛.jpg)
 
 ## **基本信息**
 

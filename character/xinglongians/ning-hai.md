@@ -4,7 +4,7 @@ description: Ning Hai
 
 # 宁海
 
-![宁海](../../.gitbook/assets/ning-hai-.jpg)
+![宁海](../../.gitbook/assets/宁海.jpg)
 
 基本信息
 

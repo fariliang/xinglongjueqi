@@ -6,7 +6,7 @@ description: Chen Anqi
 
 Angela 安琪拉
 
-![陈安琪](../../.gitbook/assets/chen-an-qi-.jpg)
+![陈安琪](../../.gitbook/assets/陈安琪.jpg)
 
 基本信息
 

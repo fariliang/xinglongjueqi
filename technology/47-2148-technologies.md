@@ -4,7 +4,7 @@ description: 47 2148 Technologies
 
 # 2148年科技47个
 
-![2148年科技47个](../.gitbook/assets/2148-nian-ke-ji-47-ge-.png)
+![2148年科技47个](../.gitbook/assets/2148年科技47个.png)
 
 ## 物理
 

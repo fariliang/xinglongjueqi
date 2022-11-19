@@ -4,7 +4,7 @@ description: Liang Ye
 
 # 梁夜
 
-![梁夜](../../.gitbook/assets/liang-ye-.jpg)
+![梁夜](../../.gitbook/assets/梁夜.jpg)
 
 ## **基本信息**
 

@@ -4,7 +4,7 @@ description: Ding Che
 
 # 丁彻
 
-![丁彻](../../.gitbook/assets/ding-che-.jpg)
+![丁彻](../../.gitbook/assets/丁彻.jpg)
 
 基本信息
 

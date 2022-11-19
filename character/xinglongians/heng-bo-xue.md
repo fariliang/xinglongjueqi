@@ -4,7 +4,7 @@ description: Heng Boxue
 
 # 衡博学
 
-![衡博学](../../.gitbook/assets/heng-bo-xue-.jpg)
+![衡博学](../../.gitbook/assets/衡博学.jpg)
 
 基本信息
 

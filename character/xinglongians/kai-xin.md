@@ -4,7 +4,7 @@ description: Kai Xin
 
 # 凯欣
 
-![凯欣](../../.gitbook/assets/kai-xin-.jpg)
+![凯欣](../../.gitbook/assets/凯欣.jpg)
 
 基本信息
 

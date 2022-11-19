@@ -4,7 +4,7 @@ description: Feiji
 
 # 飞楫
 
-![飞楫](../../.gitbook/assets/fei-ji-.jpg)
+![飞楫](../../.gitbook/assets/飞楫.jpg)
 
 ## **基本信息**
 

@@ -4,7 +4,7 @@ description: Yun Fei
 
 # 云飞
 
-![云飞](../../.gitbook/assets/yun-fei-.jpg)
+![云飞](../../.gitbook/assets/云飞.jpg)
 
 基本信息
 

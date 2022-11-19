@@ -4,7 +4,7 @@ description: Polang
 
 # 破浪
 
-![破浪](../../.gitbook/assets/po-lang-.jpg)
+![破浪](../../.gitbook/assets/破浪.jpg)
 
 ## **基本信息**
 

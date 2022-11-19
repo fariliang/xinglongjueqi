@@ -4,7 +4,7 @@ description: 37 2248 Technologies
 
 # 2248年科技37个
 
-![2248年科技37个](../.gitbook/assets/2248-nian-ke-ji-37-ge-.png)
+![2248年科技37个](../.gitbook/assets/2248年科技37个.png)
 
 ## 物理
 

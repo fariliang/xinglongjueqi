@@ -4,7 +4,7 @@ description: Basheer Abdou
 
 # 巴希尔·阿布多
 
-![巴希尔·阿布多](../../.gitbook/assets/ba-xi-er-abu-duo-.jpg)
+![巴希尔·阿布多](../../.gitbook/assets/巴希尔·阿布多.jpg)
 
 ## **基本信息**
 

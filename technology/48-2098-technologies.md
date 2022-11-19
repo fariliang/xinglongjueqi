@@ -4,7 +4,7 @@ description: 48 2098 Technologies
 
 # 2098年科技48个
 
-![2098年科技48个](../.gitbook/assets/2098-nian-ke-ji-48-ge-.png)
+![2098年科技48个](../.gitbook/assets/2098年科技48个.png)
 
 ## 物理
 

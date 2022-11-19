@@ -4,7 +4,7 @@ description: Alpha
 
 # 阿尔法
 
-![阿尔法](../../.gitbook/assets/a-er-fa-.jpg)
+![阿尔法](../../.gitbook/assets/阿尔法.jpg)
 
 基本信息
 

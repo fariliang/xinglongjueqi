@@ -4,7 +4,7 @@ description: Modification Injection
 
 # 改造液25种
 
-![&#x6539;&#x9020;&#x6DB2;25&#x79CD;](../.gitbook/assets/gai-zao-ye-25-zhong-.png)
+![改造液25种](../.gitbook/assets/改造液25种.png)
 
 改造液是一种基因药物，改造人能通过注射改造液来强化或减弱某种身体机能。每一种改造液都有它的副作用，普通人如果注射了，会因为DNA双螺旋结构解体而死亡。改造人因为增强了基因结构，所以可以使用改造液。一个改造人不能同时承受3种以上的改造液，否则也会导致基因结构解体而死亡。
 
@@ -215,4 +215,3 @@ description: Modification Injection
 有效时长：30分钟到永久。
 
 副作用：再生时全身感到非常疼痛。
-

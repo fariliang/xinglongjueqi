@@ -4,7 +4,7 @@ description: Aydan Eaton
 
 # 亚登·伊东
 
-![亚登·伊东](../../.gitbook/assets/ya-deng-yi-dong-.jpg)
+![亚登·伊东](../../.gitbook/assets/亚登·伊东.jpg)
 
 基本信息
 

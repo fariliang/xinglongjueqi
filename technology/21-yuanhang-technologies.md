@@ -4,7 +4,7 @@ description: 21 Yuanhang Technologies
 
 # 远航星科技21个
 
-![远航星科技21个](../.gitbook/assets/yuan-hang-xing-ke-ji-21-ge-.png)
+![远航星科技21个](../.gitbook/assets/远航星科技21个.png)
 
 ## 物理
 

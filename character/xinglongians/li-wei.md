@@ -4,7 +4,7 @@ description: Li Wei
 
 # 李维
 
-![李维](../../.gitbook/assets/li-wei-.jpg)
+![李维](../../.gitbook/assets/李维.jpg)
 
 基本信息
 
