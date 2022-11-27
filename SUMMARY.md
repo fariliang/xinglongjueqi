@@ -76,6 +76,7 @@
 * [坤灵星二十国](geology/20-countries-of-kunling.md)
 * [坤灵星地图](geology/maps-of-kunling.md)
 * [天河系十文明](geology/tian-he-xi-shi-wen-ming.md)
+* [计算宇宙历法](geology/ji-suan-yu-zhou-li-fa.md)
 
 ## 哲学 <a href="#philosophy" id="philosophy"></a>
 
