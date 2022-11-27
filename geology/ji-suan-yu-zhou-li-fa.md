@@ -1,5 +1,8 @@
 ---
 description: Chronology of the Universe
+cover: >-
+  https://images.unsplash.com/photo-1506784365847-bbad939e9335?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxjYWxlbmRhcnxlbnwwfHx8fDE2Njk1MjE4OTY&ixlib=rb-4.0.3&q=80
+coverY: 0
 ---
 
 # 计算宇宙历法
@@ -15,6 +18,8 @@ description: Chronology of the Universe
 0年，数源文明：数源文明第一次载人航天
 
 182年，数源文明：数源文明发现数源方程（同三态方程）
+
+9782，星龙文明：等同于星龙纪元1年
 
 11988年，星龙文明：星龙文明发现三态方程，等同于星龙纪元2206年
 
